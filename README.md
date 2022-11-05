@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JPGeszti
+- 👀 I’m interested in Data Analytics and Medical Physics
+- 🌱 I’m currently learning Data Science & Python
+- 📫 gesztigyulapeter@gmail.com
