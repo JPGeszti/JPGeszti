@@ -1,19 +1,17 @@
 <!-- HEADER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,25:6E40C9,50:DB6BFF,75:6E40C9,100:1F6FEB&height=260&section=header&text=Gyula%20Peter%20Geszti&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Designing%20·%20Managing%20·%20Engineering&descSize=18&descAlignY=62&animation=fadeIn" alt="header" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,25:6E40C9,50:DB6BFF,75:6E40C9,100:1F6FEB&height=260&section=header&text=Gyula%20Peter%20Geszti&fontSize=52&fontColor=ffffff&fontAlignY=32&desc=Design%20·%20Managment%20·%20Engineering&descSize=18&descAlignY=52&animation=fadeIn" alt="header" />
 <p><a href="mailto:gesztigyulapeter@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://github.com/JPGeszti"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></p>
 </div>
-
 <h2 align="left"> &nbsp; About &nbsp; </h2>
 
-> I work at the intersection of **design, data and applied engineering** — focused on **Web Design** and **Project Management**, with active work across **Data Analytics**, **Medical Physics**, **Application Development** and **Engineering Consulting**. I move comfortably between strategic and hands-on: a layout in Figma in the morning, a Python notebook in the afternoon, a multilingual stakeholder call in between.
+> I work at the intersection of **design, data and applied engineering** — focused on **Web Design** and **Project Management**, with active work across **Data Analytics**, **Facility Management**, **Application Development** and **Engineering Consulting**. I move comfortably between strategic decisions, consulting and hands-on development.
 
 ```yaml
 focus:    Web Design · Project Management
-areas:    Data Analytics · Medical Physics · Application Development · Engineering Consulting
+areas:    Data Analytics · Facility Management · Application Development · Engineering Consulting · Medical Physics
 learning: Python · Data Science · Frontend tooling
-speaks:   Hungarian · English · German
+speaks:   Hungarian · English · Spanish
 based:    Budapest
 contact:  gesztigyulapeter@gmail.com
 ```
