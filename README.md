@@ -1,9 +1,9 @@
 <!-- HEADER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:6E40C9,100:1F6FEB&height=220&section=header&text=Gyula%20Peter%20Geszti&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Designing%20·%20Managing%20·%20Engineering&descSize=18&descAlignY=64&animation=fadeIn" alt="header" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,25:6E40C9,50:DB6BFF,75:6E40C9,100:1F6FEB&height=260&section=header&text=Gyula%20Peter%20Geszti&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Designing%20·%20Managing%20·%20Engineering&descSize=18&descAlignY=62&animation=fadeIn" alt="header" />
 
-<br />
+<p><a href="mailto:gesztigyulapeter@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://github.com/JPGeszti"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></p>
+</div>
 
 <h2 align="left"> &nbsp; About &nbsp; </h2>
 
@@ -18,11 +18,7 @@ based:    Budapest
 contact:  gesztigyulapeter@gmail.com
 ```
 
-<br />
-
 <h2 align="center"> &nbsp; Stack &nbsp; </h2>
-
-<br />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,matlab,css,astro&perline=8" alt="Languages" />
@@ -30,11 +26,7 @@ contact:  gesztigyulapeter@gmail.com
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,webstorm,git,github,notion,slack&perline=7" alt="Tools" />
 </p>
 
-<br />
-
 <h2 align="center"> &nbsp; GitHub &nbsp; </h2>
-
-<br />
 
 <p align="center">
   <picture>
@@ -43,17 +35,11 @@ contact:  gesztigyulapeter@gmail.com
   </picture>
 </p>
 
-<br />
-
 <h2 align="center"> &nbsp; Get in touch &nbsp; </h2>
-
-<br />
 
 <p align="center"><a href="mailto:gesztigyulapeter@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://github.com/JPGeszti"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></p>
 
 <p align="center"><i>Open to projects in design, data and applied engineering.</i></p>
 
-<br />
-
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,50:1F6FEB,100:6E40C9&height=140&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,25:6E40C9,50:DB6BFF,75:6E40C9,100:1F6FEB&height=200&section=footer&animation=fadeIn" alt="footer" />
