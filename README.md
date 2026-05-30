@@ -33,6 +33,13 @@ contact:  gesztigyulapeter@gmail.com
   </picture>
 </p>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=JPGeszti&bg_color=0d1117&color=58a6ff&line=6e40c9&point=ffffff&area=true&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JPGeszti&bg_color=ffffff&color=1f6feb&line=6e40c9&point=1f6feb&area=true&hide_border=true" alt="Activity graph" />
+  </picture>
+</div>
+
 <h2 align="center"> &nbsp; Get in touch &nbsp; </h2>
 
 <p align="center"><a href="mailto:gesztigyulapeter@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://github.com/JPGeszti"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></p>
